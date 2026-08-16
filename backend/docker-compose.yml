@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+  mongo:
+    image: mongo:6.0            # official MongoDB image
+    container_name: disaster-mongo
+    ports:
+      - "27017:27017"           # expose to host
+    volumes:
+      - mongo_data:/data/db     # persist data between restarts
+    environment:
+      - MONGO_URI=mongodb://mongo:27017/disaster-mongo
+
+volumes:
+  mongo_data:
