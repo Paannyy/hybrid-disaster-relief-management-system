@@ -234,7 +234,7 @@ Add project screenshots to `docs/screenshots/` and replace these placeholders be
 ![Admin Verification](docs/screenshots/Aiddash.png)
 
 ### Donation Traceability
-![Donation Traceability](docs/screenshots/proof (2).png)
+![Donation Traceability](docs/screenshots/proof(2).png)
 
 ## License
 
