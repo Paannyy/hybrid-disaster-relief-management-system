@@ -222,19 +222,19 @@ Add project screenshots to `docs/screenshots/` and replace these placeholders be
 ## Screenshots
 
 ### Admin Aid Distribution
-![Admin Aid Distribution](docs/screenshots/admin-aid-distribution.png)
+![Admin Aid Distribution](docs/screenshots/admindash.png)
 
 ### Donor Dashboard
-![Donor Dashboard](docs/screenshots/donor-dashboard.png)
+![Donor Dashboard](docs/screenshots/dondash.png)
 
 ### Beneficiary Registration
-![Beneficiary Registration](docs/screenshots/beneficiary-registration.png)
+![Beneficiary Registration](docs/screenshots/Bendash.png)
 
 ### Admin Verification
-![Admin Verification](docs/screenshots/admin-verification.png)
+![Admin Verification](docs/screenshots/Aiddash.png)
 
 ### Donation Traceability
-![Donation Traceability](docs/screenshots/donation-trace.png)
+![Donation Traceability](docs/screenshots/proof (2).png)
 
 ## License
 
